@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Smokey027
-- 👀 I’m interested in learning about coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on everything
+- 👀 I’m interested in learning about coding and working with developers
+- 🌱 I’m currently learning python, java, and C++
+- 💞️ I’m looking to collaborate on anything that will allow me to further educate myself
 - 📫 How to reach me is by email at saturdaynight135@gmail.com
 
 <!---
